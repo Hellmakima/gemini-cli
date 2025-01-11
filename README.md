@@ -2,7 +2,6 @@
 
 This lightweight utility is designed for interacting with the Gemini API. It generates responses based on user-provided prompts and optional context extracted from files or directory structures. It’s ideal for small-scale projects due to the token limit of the Gemini API.
 
-gem.exe
 https://github.com/user-attachments/assets/4d341d30-1f41-44d8-bea3-dcf149d5a911
 
 
